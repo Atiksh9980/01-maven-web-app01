@@ -1,7 +1,9 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT..!!<font></h1>
+<h1><font color='red'>Welcome to Ashok IT :: Leading software training Institute  Hydrabad..!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!!</h2>
+<h3> we are located at Hydrabad Ameerpet</h3>
+<a href="https://wa.me/+919980222704"> send whatsapp message to ashokit admin team for more info <br/>
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Training Schedules</a>
 </body>
 </html>
